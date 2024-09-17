@@ -60,9 +60,9 @@ X Education aimed to improve conversion for the leads from website and other sou
 - Last Notable Activity: The last notable activity performed by the student.
 
 # Files Summary
-README.md : Provides an overview of the Lead-Score-Case-Study repository
-lead_scoring.ipynb : Jupiter file containing the code for the Lead Scoring Case Study
-Assignment Subjective Questions.pdf : Provides answers to some subjective questions related to the Problem
-Summary.pdf : Provides a summary of the problem and its solution with a Logistic Regression model
-Lead_Scoring_Presentation.pdf: Giving a Presentation of the Problem, solution approach and Recommendations
+- README.md : Provides an overview of the Lead-Score-Case-Study repository
+- lead_scoring.ipynb : Jupiter file containing the code for the Lead Scoring Case Study
+- Assignment Subjective Questions.pdf : Provides answers to some subjective questions related to the Problem
+- Summary.pdf : Provides a summary of the problem and its solution with a Logistic Regression model
+- Lead_Scoring_Presentation.pdf: Giving a Presentation of the Problem, solution approach and Recommendations
 
